@@ -1,9 +1,13 @@
-#👨🏻‍💻 Luis Henrique
+# 👨🏻‍💻 Luis Henrique
 
-*Desenvolvedor Front-End* | *Análista de Sistemas*
+
+
+**`Desenvolvedor Front-End | Análista de Sistemas`**
 
 Olá! Sou Luis Henrique, estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor front-end com experiência prática em tecnologias como HTML, CSS, JavaScript e React. Também possuo conhecimentos em SQL e SAP MM.
 
+
+---
 
 
 ### 🤖 Linguagens e Tecnologias
@@ -32,6 +36,7 @@ Olá! Sou Luis Henrique, estudante de Análise e Desenvolvimento de Sistemas e d
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+
 <img 
     align="left" 
     alt="TypeScript"
@@ -40,6 +45,7 @@ Olá! Sou Luis Henrique, estudante de Análise e Desenvolvimento de Sistemas e d
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
+
 <img 
     align="left" 
     alt="React"
@@ -47,9 +53,8 @@ Olá! Sou Luis Henrique, estudante de Análise e Desenvolvimento de Sistemas e d
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-
-
 />
+
 <img 
     align="left" 
     alt="Tailwind" 
@@ -57,24 +62,7 @@ Olá! Sou Luis Henrique, estudante de Análise e Desenvolvimento de Sistemas e d
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-
 />
-
-
-
-
-<img 
-align="left" 
-alt="Next.js" 
-title="Next.js"
-width="30px" 
-style="padding-right: 10px;" 
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-          
-
-/>
-
 
 <img 
     align="left" 
@@ -84,9 +72,27 @@ style="padding-right: 10px;"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-<br/>
-<br/>
 
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
+/>
+
+<br/>
+<br/>
 ### 📊 Estatísticas
 
 <p>
