@@ -1,3 +1,6 @@
+- Animated Laptop Banner
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="600">
+
 # 👨🏻‍💻 Luis Henrique
 
 
@@ -112,4 +115,6 @@ Olá! Sou Luis Henrique, estudante de Análise e Desenvolvimento de Sistemas e d
   />
 
 </p>
-
+- Browsing
+<img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="500">
+<br><br>
