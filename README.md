@@ -7,7 +7,7 @@
 
 **`Desenvolvedor Front-End | Análista de Sistemas`**
 
-Olá! Sou Luis Henrique, estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor front-end com experiência prática em tecnologias como HTML, CSS, JavaScript e React. Também possuo conhecimentos em SQL e SAP MM.
+Olá! Sou Luis Henrique, estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor front-end com experiência prática em tecnologias como HTML, CSS, tailwindcss, JavaScript, typescript e React. Também possuo conhecimentos em SQL e SAP MM.
 
 
 ---
