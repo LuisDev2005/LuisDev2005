@@ -5,9 +5,11 @@
 
 
 
-**`Desenvolvedor Web | Análista de Sistemas`**
+**`Desenvolvedor Web | Web Security | Análise de Sistemas`**
 
-Olá! Sou Luis Henrique, estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor Web com experiência prática em tecnologias como HTML, CSS, tailwindcss, JavaScript, typescript e React. Também possuo conhecimentos em SQL e SAP MM.
+
+
+Sou Luis Henrique, estudante de Análise e Desenvolvimento de Sistemas, focado em desenvolvimento web seguro (Web Security). Trabalho com JavaScript, TypeScript, Node.js e SQL, aplicando boas práticas de segurança em aplicações web. Possuo conhecimentos em SAP MM e interesse em Application Security.
 
 
 ---
@@ -49,14 +51,7 @@ Olá! Sou Luis Henrique, estudante de Análise e Desenvolvimento de Sistemas e d
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
 
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
+
 
 <img 
     align="left" 
